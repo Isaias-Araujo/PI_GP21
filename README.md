@@ -19,7 +19,7 @@ Equipe:
 2. Inicie Apache e MySQL no XAMPP.
 3. Acesse no navegador:
 
-	`http://localhost/PI_Grupo21_AgendaEstudos_final/public/`
+	'http://localhost/PI_Grupo21_AgendaEstudos_final/public/'
 
 Caso o localhost não funcione deve alterar a porta em 'Config' Apache (httpd.conf) procure por 'Listen 80' e altere para 'Listen 8050'
 
